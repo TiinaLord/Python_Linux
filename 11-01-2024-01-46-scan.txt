@@ -1,0 +1,21 @@
+
+Отчёт о состоянии системы:
+Пользователи системы: root, systemd+, avahi, message+, syslog, rtkit, colord, kernoops, user
+Процессов запущено: 300
+
+Пользовательских процессов:
+root: 172
+systemd+: 3
+avahi: 2
+message+: 1
+syslog: 1
+rtkit: 1
+colord: 1
+kernoops: 2
+user: 117
+ 
+
+Всего памяти используется: 57.1 mb
+Всего CPU используется: 51.2 %
+Больше всего памяти использует: /lib/systemd/systemd
+Больше всего CPU использует: /lib/systemd/systemd
